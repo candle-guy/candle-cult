@@ -1,1 +1,1 @@
-there is nothing here yet
+[random lore drops](rld.md)
